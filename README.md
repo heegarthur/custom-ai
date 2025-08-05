@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 - Simple setup with minimal dependencies
 - Supports custom FAQ files for tailored responses
 - Modern implementation with `example.py` (recommended)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📝 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.6 or higher
@@ -40,7 +40,7 @@
 
 ---
 
-## 🌐 Web Version
+## Web Version
 
 Want to embed your custom AI FAQ on a website?  
 Visit the [demo site](https://heegarthur.github.io/custom-ai/) to see an example.
@@ -58,14 +58,8 @@ Visit the [demo site](https://heegarthur.github.io/custom-ai/) to see an example
 
 ---
 
-## 📂 File Structure
-
----
-
-## 🛠️ Customization Tips
-- Edit `faqs.txt` to add or modify FAQs
+## 🛠Customization Tips
 - Style the web version by editing `ai.css`
-- Enhance functionality by modifying `ai.js`
 
 ---
 
