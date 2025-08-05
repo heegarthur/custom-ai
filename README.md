@@ -16,4 +16,6 @@ how to use AI:chatgpt.com
 generate AI images:openai.com/dall-e
 
 web version:
+go to https://heegarthur.github.io/custom-ai/ to see a example
+to make your own web version, clone ai.css , ai.js , index.html and change the data in ai.js
 
