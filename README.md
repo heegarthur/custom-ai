@@ -14,3 +14,6 @@ question:answer
 Example:
 how to use AI:chatgpt.com
 generate AI images:openai.com/dall-e
+
+web version:
+
