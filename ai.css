@@ -24,7 +24,6 @@
 #answer:hover {
   background: #e0e0e0;
   box-shadow: 0 8px 20px rgba(34, 0, 255, 0.279);
-  transform: translateY(-3px);
 }
 .input[type="text"] {
   display: block;
@@ -115,4 +114,5 @@
   to {
     transform: translateY(-0.1em);
   }
+
 }
