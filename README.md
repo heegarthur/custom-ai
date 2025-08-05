@@ -79,5 +79,4 @@ If you find this project helpful, consider starring the repository or sharing it
 
 Or maybe even support me better to donate on: [https://buymeacoffee.com/ivocreator]
 
-also if you would like to, follow me on tiktok: [https://www.tiktok.com/@ivoheeg2]
 ---
