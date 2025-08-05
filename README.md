@@ -1,21 +1,89 @@
 # custom-ai
 
-A simple and customizable AI-based FAQ assistant.
+**custom-ai** is a lightweight, customizable AI-powered FAQ assistant designed to help you easily answer your frequently asked questions. Whether you're building a personal project or integrating it into your website, custom-ai provides an easy way to deploy a smart, tailored FAQ system.
 
-Usage:
-- Use example.py (this is the newer and recommended version).
-  Make sure to read the comments at the top of the file first.
-- main.py is an older example, not optimized.
+---
 
-FAQ file format (faqs.txt):
-Each line should be like this:
-question:answer
+## 🚀 Features
+- Simple setup with minimal dependencies
+- Supports custom FAQ files for tailored responses
+- Modern implementation with `example.py` (recommended)
+- Older, less optimized example with `main.py`
+- Easily deployable on static websites
 
-Example:
-how to use AI:chatgpt.com
-generate AI images:openai.com/dall-e
+---
 
-web version:
-go to https://heegarthur.github.io/custom-ai/ to see a example
-to make your own web version, clone ai.css , ai.js , index.html and change the data in ai.js
+## 📝 Getting Started
 
+### Prerequisites
+- Python 3.6 or higher
+- Basic knowledge of Python and HTML
+
+### Usage
+1. **Prepare your FAQ file (`faqs.txt`)**  
+   Format each question-answer pair on a single line separated by a colon (`:`).  
+   Example:
+     how to use AI:chatgpt.com
+     generate AI images:openai.com/dall-e
+
+2. **Run the script**  
+- **Recommended:** Use `example.py` for new projects  
+  ```bash
+  python example.py
+  ```
+- **Older version:** Use `main.py` (not optimized)  
+  ```bash
+  python main.py
+  ```
+
+3. **Follow the comments in `example.py`** for customization tips and advanced configuration options.
+
+---
+
+## 🌐 Web Version
+
+Want to embed your custom AI FAQ on a website?  
+Visit the [demo site](https://heegarthur.github.io/custom-ai/) to see an example.
+
+### How to create your own web version:
+1. Clone the repository or download these files:
+- `ai.css`
+- `ai.js`
+- `index.html`
+
+2. Modify `ai.js` to include your FAQ data:
+- Replace the sample data with your questions and answers.
+
+3. Host these files on your server or use GitHub Pages for quick deployment.
+
+---
+
+## 📂 File Structure
+
+---
+
+## 🛠️ Customization Tips
+- Edit `faqs.txt` to add or modify FAQs
+- Style the web version by editing `ai.css`
+- Enhance functionality by modifying `ai.js`
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
+
+---
+
+## 📢 License
+This project is open-source and available under the MIT License.
+
+---
+
+## 🌟 Support This Project
+
+If you find this project helpful, consider starring the repository or sharing it with others!
+
+Or maybe even support me better to donate on: [https://buymeacoffee.com/ivocreator]
+
+also if you would like to, follow me on tiktok: [https://www.tiktok.com/@ivoheeg2]
+---
