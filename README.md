@@ -44,6 +44,7 @@
 
 Want to embed your custom AI FAQ on a website?  
 Visit the [demo site](https://heegarthur.github.io/custom-ai/) to see an example.
+This demo has a really limited amount of data so it won't really work but you can so how it can look.
 
 ### How to create your own web version:
 1. Clone the repository or download these files:
